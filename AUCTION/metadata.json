@@ -1,0 +1,6 @@
+{
+  "name": "IIIT Trichy - Sports Auction Platform",
+  "description": "Official sports player auction platform for IIIT Trichy with Round 2 bidding, custom Google Forms CSV ingestion, and 16:9 projector stage screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
